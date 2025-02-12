@@ -171,53 +171,21 @@ function App() {
                     <h3 className="text-2xl font-bold text-secondary-900 dark:text-white">
                       Data Science Intern
                     </h3>
-                    <p className="text-secondary-600 dark:text-secondary-300">TechAnalytics Corp</p>
+                    <p className="text-secondary-600 dark:text-secondary-300">Learnwik</p>
                   </div>
                 </div>
                 <p className="text-secondary-500 dark:text-secondary-400 mb-4">
-                  Jun 2023 - Aug 2023
+                  Nov 2022 - Jan 2023
                 </p>
                 <ul className="space-y-2 text-secondary-600 dark:text-secondary-300">
                   <li className="flex items-start gap-2">
                     <span className="text-primary-500">•</span>
-                    Built predictive models using Python and scikit-learn
+                    Completed a comprehensive online internship program in data science offered by LearnWik, a leading platform for online education.
                   </li>
                   <li className="flex items-start gap-2">
                     <span className="text-primary-500">•</span>
-                    Developed data visualization dashboards using React and D3.js
-                  </li>
-                  <li className="flex items-start gap-2">
-                    <span className="text-primary-500">•</span>
-                    Collaborated with cross-functional teams to implement ML solutions
-                  </li>
-                </ul>
-              </div>
-
-              <div className="card-hover p-8">
-                <div className="flex items-center gap-4 mb-4">
-                  <Building2 className="text-primary-500 w-8 h-8" />
-                  <div>
-                    <h3 className="text-2xl font-bold text-secondary-900 dark:text-white">
-                      Machine Learning Research Intern
-                    </h3>
-                    <p className="text-secondary-600 dark:text-secondary-300">AI Research Lab</p>
-                  </div>
-                </div>
-                <p className="text-secondary-500 dark:text-secondary-400 mb-4">
-                  Jan 2023 - Apr 2023
-                </p>
-                <ul className="space-y-2 text-secondary-600 dark:text-secondary-300">
-                  <li className="flex items-start gap-2">
-                    <span className="text-primary-500">•</span>
-                    Researched and implemented deep learning models for computer vision
-                  </li>
-                  <li className="flex items-start gap-2">
-                    <span className="text-primary-500">•</span>
-                    Published a research paper on efficient neural network architectures
-                  </li>
-                  <li className="flex items-start gap-2">
-                    <span className="text-primary-500">•</span>
-                    Developed Python libraries for ML model deployment
+                    Developed practical skills and gained valuable insights into various aspects of data science, including data manipulation, 
+                    exploratory data analysis, predictive modeling, and machine learning.
                   </li>
                 </ul>
               </div>
